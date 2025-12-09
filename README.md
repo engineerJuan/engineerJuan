@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Making bugs since 2022<br>📚 Currently working on personal projects<br>🎯 Goals: Pursue a career in cybersecurity<br>✨ Fun fact: I love what I do</p>
+<p align="left">💻 Fixing bugs since 2022<br>📚 Currently working on personal projects<br>🎯 Goals: Pursue a career in cybersecurity<br>✨ Fun fact: I love what I do</p>
 
 ###
 
